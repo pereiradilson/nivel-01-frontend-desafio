@@ -16,22 +16,29 @@ Creating a front-end with ReactJS to list, register and remove repositories.
 
 ## Installing
 
-```
-yarn
-```
-or
-```
-npm install
+```bash
+
+  # Downloading this repositories
+  $ git clone https://github.com/pereiradilson/nivel-01-frontend-desafio.git
+
+  # Enter folder
+  $ cd nivel-01-frontend-desafio
+  
+  # Install repositories
+  $ yarn
+  
+  # Run project
+  $ yarn start
+  
 ```
 
 ## Running the tests
 
-```
-yarn test
-```
-or
-```
-npm run test
+```bash
+
+  # Execute tests
+  $ yarn test
+  
 ```
 
 ## Authors
