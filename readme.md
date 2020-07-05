@@ -1,4 +1,4 @@
-# GoSatck - Challenge: ReactJS concepts
+# GoStack - Challenge: ReactJS concepts
 
 Creating a front-end with ReactJS to list, register and remove repositories.
 
